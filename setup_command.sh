@@ -2,7 +2,7 @@
 # ---------------------------------------------------------------
 # Project: Linux Compan
 y Access Control System (AWS EC2)
-# Author: [Your Name]
+# Author: Julian Flemons
 # Description: Script to set up users, groups, shared directories,
 # and enforce least-privilege permissions (2770 + SGID).
 # ---------------------------------------------------------------
